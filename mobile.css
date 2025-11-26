@@ -56,6 +56,7 @@
         .container_box {
             .wrap {
                 .picture {
+                    margin-top: 26px;
                     height: 89px;
                     background-image: url("picture/picture_mobile.svg");
                     max-width: 128px;
@@ -64,6 +65,25 @@
         }
     }
     .section_3 {
+        .box {
+            flex-direction: column;
+            margin-bottom: 19px;
+            .box--button {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border: 1px solid #24ab70;
+                background-color: #f8f9fe;
+                width: 157px;
+                height: 49.3311px;
+                border-radius: 4px;
+                color: #24ab70;
+            }
+            .color_content {
+                color: #bdbdbd;
+                height: 40.7785px;
+            }
+        }
         .box_1 {
             .icon_1 {
                 max-width: 152px;
