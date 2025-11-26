@@ -56,7 +56,7 @@
         .container_box {
             .wrap {
                 .picture {
-                    height: auto;
+                    height: 89px;
                     background-image: url("picture/picture_mobile.svg");
                     max-width: 128px;
                 }
