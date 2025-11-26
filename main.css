@@ -321,8 +321,6 @@ main {
 .section_4 {
     display: flex;
     flex-direction: column;
-    /* position: absolute; */
-    /* bottom: 0; */
     margin-top: -120px;
     width: 100%;
     .background {
@@ -359,6 +357,7 @@ main {
                 position: relative;
             }
             .box_card {
+                overflow-x: hidden;
                 max-width: 980px;
                 width: 100%;
                 .card {

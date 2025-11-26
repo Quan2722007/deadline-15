@@ -17,6 +17,9 @@ html {
     height: 100%;
     background-color: #f4fbf8;
 }
+.overflow {
+    overflow-x: hidden;
+}
 * {
     margin: 0;
     padding: 0;
