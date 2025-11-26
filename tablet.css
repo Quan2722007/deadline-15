@@ -72,6 +72,8 @@
         }
     }
     .footer {
-        padding: 46px 0 43px 0;
+        .box_footer {
+            padding: 46px 0 43px 0;
+        }
     }
 }
