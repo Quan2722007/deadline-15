@@ -217,17 +217,17 @@ main {
                 color: #333333;
             }
             .picture {
+                background-image: url("picture/picture_4.svg");
                 background-size: cover;
                 object-fit: cover;
                 max-width: 254px;
                 width: 100%;
-                height: 111px;
             }
         }
     }
     .picture {
-        background-image: url("picture/picture_4.svg");
         width: calc((100% - 24px) / 2);
+        height: 100%;
         background-size: cover;
         object-fit: cover;
     }
