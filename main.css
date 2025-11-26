@@ -226,6 +226,7 @@ main {
         }
     }
     .picture {
+        background-image: url("picture/picture_4.svg");
         width: calc((100% - 24px) / 2);
         height: 100%;
         background-size: cover;
