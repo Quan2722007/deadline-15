@@ -1,16 +1,14 @@
 @media only screen and (max-width: 660px) {
     .container {
-        max-width: 660px;
     }
     .header {
         padding: 33px 0 171px 0;
         .box {
             justify-content: space-between;
             align-items: center;
-            padding: 20px 18px;
+            padding: 20px 14px;
             border-bottom: #24ab70;
             box-shadow: 0px 4px 4px 0px #24ab70;
-            max-width: 660px;
             width: 100%;
             .Logo {
                 width: 138.0169px;

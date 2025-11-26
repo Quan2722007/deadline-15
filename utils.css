@@ -12,7 +12,11 @@
     --font-viet: "Be Vietnam Pro";
     --font-inter: "Inter";
 }
-
+html {
+    overflow-x: hidden;
+    height: 100%;
+    background-color: #f4fbf8;
+}
 * {
     margin: 0;
     padding: 0;
