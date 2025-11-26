@@ -39,6 +39,9 @@
     .section_2 {
         .container_box {
             width: 100%;
+            .picture {
+                height: 113px;
+            }
         }
         .picture {
             width: 100%;
