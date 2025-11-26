@@ -232,6 +232,7 @@ main {
     }
 }
 .section_3 {
+    overflow-x: hidden;
     display: flex;
     justify-content: center;
     .box_1 {
