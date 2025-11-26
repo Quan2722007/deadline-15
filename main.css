@@ -237,7 +237,6 @@ main {
     .box_1 {
         border-radius: 4px;
         position: relative;
-        overflow: hidden;
         width: calc((100% - 16px) / 2);
         padding: 40px 40px 53px 40px;
         background-color: #24ab70;
@@ -357,7 +356,6 @@ main {
                 position: relative;
             }
             .box_card {
-                overflow-x: hidden;
                 max-width: 980px;
                 width: 100%;
                 .card {

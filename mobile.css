@@ -2,7 +2,7 @@
     .container {
     }
     .header {
-        padding: 33px 0 171px 0;
+        padding: 0 0 171px 0;
         .box {
             justify-content: space-between;
             align-items: center;
@@ -49,6 +49,9 @@
     main {
         margin-top: -37px;
     }
+    .section_1 {
+        overflow-x: hidden;
+    }
     .section_2 {
         .container_box {
             .wrap {
@@ -84,6 +87,7 @@
         }
     }
     .section_4 {
+        overflow-x: hidden;
         margin-top: -145px;
     }
 }
